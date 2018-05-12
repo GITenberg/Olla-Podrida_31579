@@ -1,0 +1,41 @@
+_repo: Olla-Podrida_31579
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marryat, Frederick
+    aliases:
+    - Marryatt, Captain
+    - Marryat, Captain
+    - Marryat, Kapitein
+    - Marryat, F. W. (Frederick W.)
+    birthdate: 1792
+    deathdate: 1848
+    gutenberg_agent_id: '627'
+    url: http://www.gutenberg.org/2009/agents/627
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
+description: ''
+gutenberg_issued: '2010-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31579'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dialogues'
+- !lcc 'PR'
+- !lcsh 'Drama'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+tableOfContents: 'The monk of Seville: a play, in five acts -- The gipsy; or, "Whose
+  son am I?": a comedy, in three acts -- Ill-will: an acting charade -- How to write
+  a fashionable novel -- How to write a book of travels -- How to write a romance
+  -- S. W. and by W. 3/4 W. -- The sky-blue domino -- Modern town houses -- The way
+  to be happy -- The legend of the Bell Rock -- Moonshine -- The fairy''s wand: a
+  tale of Windsor Park in the days of the merry monarch -- A rencontre.'
+title: Olla Podrida
+url: http://www.gutenberg.org/ebooks/31579
